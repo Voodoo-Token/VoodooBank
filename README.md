@@ -43,7 +43,7 @@ The Voodoo Bank provides a DeFi solution for those seeking to hold Voodoo tokens
 
 1. **Install MetaMask (if you haven’t already):**
    - Download and install [MetaMask](https://metamask.io/) for your browser or mobile device.
-   - Add the PulseChain network to MetaMask. [PulseChain setup guide](https://docs.pulsechain.com/using-pulsechain/metamask-setup).
+   - Add the PulseChain network to MetaMask.
 
 2. **Acquire Voodoo Tokens (VDO):**
    - Purchase or swap for VDO tokens on a PulseChain-compatible DEX.
