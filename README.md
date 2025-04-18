@@ -51,7 +51,7 @@ The Voodoo Bank provides a DeFi solution for those seeking to hold Voodoo tokens
      `0x1c5f8e8E84AcC71650F7a627cfA5B24B80f44f00`
 
 3. **Visit the Voodoo Bank:**
-   - Go to [bank.voodootoken.com](https://bank.voodootoken.com).
+   - Go to bank.voodootoken.com.
 
 4. **Connect Your Wallet:**
    - Click “Connect Wallet” and authorize the application to view your address.
