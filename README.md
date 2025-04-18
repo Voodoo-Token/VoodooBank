@@ -17,7 +17,7 @@ The Voodoo Bank provides a DeFi solution for those seeking to hold Voodoo tokens
 ## Locking Options & Rewards
 
 
-| Lock Period | Reward Type | Multiplier | Example Return*           |
+| Lock Period | Reward Type | Multiplier | Example Return           |
 |-------------|-------------|------------|---------------------------|
 | 1 Year      | VDO         | x2         | 1000 VDO → 2000 VDO       |
 | 5 Years     | VDO         | x3         | 1000 VDO → 3000 VDO       |
