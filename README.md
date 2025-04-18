@@ -25,7 +25,7 @@ The Voodoo Bank provides a DeFi solution for those seeking to hold Voodoo tokens
 
 
 - The longer you lock your tokens, the greater the reward.
-- A change in reward rates could be set by the DAO and are transparently displayed in the dApp interface.
+- A change in reward rates could be set by the DAO and are transparently displayed in the application interface.
 
 ## Security & Transparency
 
@@ -50,11 +50,11 @@ The Voodoo Bank provides a DeFi solution for those seeking to hold Voodoo tokens
    - Add the VDO token to your MetaMask using the contract address:  
      `0x1c5f8e8E84AcC71650F7a627cfA5B24B80f44f00`
 
-3. **Visit the Voodoo Bank dApp:**
+3. **Visit the Voodoo Bank:**
    - Go to [bank.voodootoken.com](https://bank.voodootoken.com).
 
 4. **Connect Your Wallet:**
-   - Click “Connect Wallet” and authorize the dApp to view your address.
+   - Click “Connect Wallet” and authorize the application to view your address.
 
 5. **Choose Your Lock Period:**
    - Select 1, 5, or 10 years, depending on your desired reward multiplier.
@@ -67,10 +67,10 @@ The Voodoo Bank provides a DeFi solution for those seeking to hold Voodoo tokens
    - Confirm the lock transaction and pay the small PulseChain gas fee.
 
 8. **Monitor Your Deposit:**
-   - View your active locks and accrued rewards directly in the dApp.
+   - View your active locks and accrued rewards directly in the application.
 
 9. **Claim After Maturity:**
-   - When your lock period ends, return to the dApp to claim your original VDO plus rewards.
+   - When your lock period ends, return to the application to claim your original VDO plus rewards.
 
 ## Integration in the Ecosystem
 
